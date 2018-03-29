@@ -1,5 +1,5 @@
 
-package com.example.android.movieapp1.Adapter;
+package com.example.android.movieapp.Adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -8,10 +8,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
-import com.example.android.movieapp1.MainActivity;
+import com.example.android.movieapp.MainActivity;
 import com.squareup.picasso.Picasso;
 
-import com.example.android.movieapp1.R;
+import com.example.android.movieapp.R;
 
 import java.util.List;
 

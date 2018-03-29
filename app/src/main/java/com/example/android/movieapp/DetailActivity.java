@@ -1,11 +1,11 @@
-package com.example.android.movieapp1;
+package com.example.android.movieapp;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.android.movieapp1.Adapter.Movie;
+import com.example.android.movieapp.Adapter.Movie;
 import com.squareup.picasso.Picasso;
 /**
  * Created by PATEL on 2/16/2018.

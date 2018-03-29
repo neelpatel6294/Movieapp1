@@ -1,9 +1,9 @@
-package com.example.android.movieapp1.Network;
+package com.example.android.movieapp.Network;
 
 import android.net.Uri;
 import android.text.TextUtils;
 
-import com.example.android.movieapp1.Adapter.Movie;
+import com.example.android.movieapp.Adapter.Movie;
 
 import org.json.JSONArray;
 import org.json.JSONException;

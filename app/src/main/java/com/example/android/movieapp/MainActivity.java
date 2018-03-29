@@ -1,4 +1,4 @@
-package com.example.android.movieapp1;
+package com.example.android.movieapp;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -13,9 +13,9 @@ import android.view.View;
 import android.widget.ProgressBar;
 
 
-import com.example.android.movieapp1.Adapter.Movie;
-import com.example.android.movieapp1.Adapter.RecyclerMovie;
-import com.example.android.movieapp1.Network.NetworkUtils;
+import com.example.android.movieapp.Adapter.Movie;
+import com.example.android.movieapp.Adapter.RecyclerMovie;
+import com.example.android.movieapp.Network.NetworkUtils;
 
 import java.net.URL;
 import java.util.List;
