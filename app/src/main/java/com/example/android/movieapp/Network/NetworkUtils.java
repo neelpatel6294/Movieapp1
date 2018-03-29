@@ -31,7 +31,7 @@ public class NetworkUtils {
 
     // Paste your Api key below......
     //Example final static String api_key="123456b8ghg68ca54g58155b4bd37dff";
-    final static String api_key = "paste your api_key here";
+    final static String api_key = "398df9fa06ef9233262ebc5d74a35f65";
 
 
     final static String LANGUAGE = "language";
